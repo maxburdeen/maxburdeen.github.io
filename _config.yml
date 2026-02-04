@@ -49,25 +49,23 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: 3D Modeling
     tools:
-    - Onshape
-    - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
+    - SolidWorks (CSWA)
+    - MATLAB
+    - HAAS CNC (certified)
+    - LabVIEW
+    - Abaqus FEA
+    - Additive Manufacturing
+    - Machining
+    - Arduino IDE
+    - Soldering
+    - Welding
   - category: Prototyping
     tools:
     - SLA
     - CNC
     - FDM
     - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
     - Laser Cutting
-    - Water Jet Cutting
     - Arduino / Raspberry Pi
     - Breadboarding for circuit testing
   - category: Design Standards / Practices
